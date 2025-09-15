@@ -66,7 +66,7 @@ India has a vital shortage of trained doctors universally when compared to the W
 
 ### Core Development Team
 
-#### Sawan Singh (2101921640047)
+#### Sunil Chaudhary (2200971520115)
 - **Role**: Project Lead & Backend Developer
 - **Responsibilities**:
   - Project coordination and management
@@ -75,7 +75,7 @@ India has a vital shortage of trained doctors universally when compared to the W
   - API development
   - System integration
 
-#### Himanshu Tiwari (2101921640018)
+#### Sanu Kumar (2200971520097)
 - **Role**: Frontend Developer & UI/UX Designer
 - **Responsibilities**:
   - User interface design
@@ -84,7 +84,7 @@ India has a vital shortage of trained doctors universally when compared to the W
   - Responsive design implementation
   - Cross-browser compatibility
 
-#### Gautam Kumar (2201921649003)
+#### Sujay Singh (2200971520114)
 - **Role**: AI/ML Engineer
 - **Responsibilities**:
   - Machine learning model development
@@ -93,7 +93,7 @@ India has a vital shortage of trained doctors universally when compared to the W
   - Model training and optimization
   - Predictive analytics
 
-#### Krishna Sharma (2101921640020)
+#### Surya Kumar Singh (xxxxxxxxxx)
 - **Role**: Full Stack Developer & Security Expert
 - **Responsibilities**:
   - Full stack development
@@ -103,9 +103,9 @@ India has a vital shortage of trained doctors universally when compared to the W
   - Documentation
 
 ### Project Supervisor
-**Dr. Pinki Sagar**  
+**Dr. xxxxxxxx**  
 Assistant Professor  
-G.L. Bajaj Institute of Technology & Management, Greater Noida
+Galgotia's College of Engineering andTtechnology, Greater Noida
 
 ## Installation and Setup
 1. **Prerequisites**
